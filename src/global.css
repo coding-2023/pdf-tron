@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cancelButton {
+  color: black;
+  background-color: #000000;
+  display: none;
+}
+
+.PSPDFKit-Toolbar {
+  background-color: #f00;
+}

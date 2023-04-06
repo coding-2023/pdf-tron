@@ -1,0 +1,30 @@
+:root{
+    --black: #121232;
+    --icon: #121232;
+    --primary: #121232;
+    --white: #fffffff
+}
+
+.PSPDFKit-Toolbar {
+    /*background-color: #121232;*/
+    color: #ffffff;
+    /*--PSPDFKit-AnnotationToolbar-background: #121232;*/
+    /*--PSPDFKit-AnnotationsSidebar-icon-color: var(--icon);*/
+    --PSPDFKit-Toolbar-background: var(--black);
+    --PSPDFKit-ToolbarButton-isActive-background: var(--white);
+    --PSPDFKit-Button--primary-color: var(--black);
+    --PSPDFKit-AnnotationToolbar-button-isHovered-background: var(--primary);
+    --PSPDFKit-App-background: var(--black);
+    --PSPDFKit-Pager-color: var(--white);
+    --PSPDFKit-Pager-background: var(--black);
+    --PSPDFKit-Pager-input-color: var(--white);
+    /*--PSPDFKit-AnnotationToolbar-background: var(--primary);*/
+
+    /*--PSPDFKit-DropdownMenu-background: var(--icon)*/
+}
+/*.PSPDFKit-Toolbar-Button {*/
+/*    background-color: #1ea7fd;*/
+
+/*}*/
+
+
